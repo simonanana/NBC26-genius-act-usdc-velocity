@@ -86,9 +86,8 @@ If you use this code, please cite:
 @inproceedings{nbc26usdc,
   title     = {From Passive Yield to Active Utility: A Quantitative Analysis of
                {USDC} Velocity and {DeFi} Capital Migration under the {GENIUS} Act},
-  author    = {[Author names]},
-  year      = {2026},
-  booktitle = {[Venue]}
+  author    = {YIHAN GUO},
+  year      = {2026}
 }
 ```
 
